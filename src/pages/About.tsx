@@ -16,7 +16,7 @@ export default function About() {
             <div className="lg:w-1/2 relative group">
               <div className="absolute inset-0 bg-primary/20 rounded-[3rem] translate-x-4 translate-y-4 -z-10 group-hover:translate-x-0 group-hover:translate-y-0 transition-transform" />
               <img 
-                src="https://images.unsplash.com/photo-1635339230533-8a38c4146039?auto=format&fit=crop&q=80" 
+                src="https://images.unsplash.com/photo-1663090296504-9ac2d924744a?auto=format&fit=crop&q=80" 
                 alt="Florida Universal Roofing Crew" 
                 referrerPolicy="no-referrer"
                 className="w-full rounded-[3rem] shadow-2xl h-[600px] object-cover border-8 border-white"

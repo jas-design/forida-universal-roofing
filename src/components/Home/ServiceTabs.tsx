@@ -9,7 +9,7 @@ const SERVICES = [
     id: 'metal',
     title: 'Metal Roofing',
     desc: 'Ultra-durable, energy-efficient roofing solutions designed to withstand high winds and severe Florida storms.',
-    image: 'https://images.unsplash.com/photo-1635339230533-8a38c4146039?auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1663133575823-d43afbbd04c2?auto=format&fit=crop&q=80',
     bullets: ['Heat Reflective Properties', '50+ Year Lifespan', 'Hurricane Resistance']
   },
   {
@@ -24,14 +24,14 @@ const SERVICES = [
     id: 'repair',
     title: 'Roof Repair',
     desc: 'Fast, reliable repair services for leaks, missing shingles, and minor damage before they become major liabilities.',
-    image: 'https://images.unsplash.com/photo-1413806151398-c438ad7ec319?auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1663133575823-d43afbbd04c2?auto=format&fit=crop&q=80',
     bullets: ['Same-Day Inspection', 'Emergency Tarping', 'Leak Detection']
   },
   {
     id: 'renovation',
     title: 'Roof Renovation',
     desc: 'Restore your existing roof to its former glory. We clean, seal, and repair to maximize longevity and performance.',
-    image: 'https://images.unsplash.com/photo-1541625602330-2277a1cd13a1?auto=format&fit=crop&q=80',
+    image: 'https://images.unsplash.com/photo-1663133575823-d43afbbd04c2?auto=format&fit=crop&q=80',
     bullets: ['Gutter Integration', 'Full Surface Seal', 'Warranty Renewal']
   }
 ];

@@ -18,7 +18,7 @@ export default function AboutSection() {
             >
               <div className="rounded-[3rem] overflow-hidden shadow-2xl border-8 border-white">
                 <img 
-                  src="https://images.unsplash.com/photo-1541625602330-2277a1cd13a1?auto=format&fit=crop&q=80" 
+                  src="https://images.unsplash.com/photo-1682617326551-4749611516f6?auto=format&fit=crop&q=80" 
                   alt="Roofing Worker" 
                   className="w-full h-[500px] object-cover"
                 />
