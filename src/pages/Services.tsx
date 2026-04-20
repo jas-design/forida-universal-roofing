@@ -10,7 +10,7 @@ const ALL_SERVICES = [
     icon: Wrench,
     description: 'Don’t wait for a small leak to become a massive flood. We specialize in identifying and fixing leaks, replacing broken shingles, and repairing flashing to keep your home dry.',
     features: ['Leak Detection', 'Shingle Replacement', 'Flashing Repair', 'Same-Day Service Available'],
-    image: 'https://images.unsplash.com/photo-1618215164283-71cc738a164e?auto=format&fit=crop&q=80'
+    image: 'https://images.unsplash.com/photo-1602193230480-7840a38eb0c3?auto=format&fit=crop&q=80'
   },
   {
     id: 'replacement',
